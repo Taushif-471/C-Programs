@@ -1,0 +1,2 @@
+60
+the value of number n after doubling is:120

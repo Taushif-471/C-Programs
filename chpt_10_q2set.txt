@@ -1,0 +1,10 @@
+	table of a is:15x1=15
+	table of a is:15x2=30
+	table of a is:15x3=45
+	table of a is:15x4=60
+	table of a is:15x5=75
+	table of a is:15x6=90
+	table of a is:15x7=105
+	table of a is:15x8=120
+	table of a is:15x9=135
+	table of a is:15x10=150
